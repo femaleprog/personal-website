@@ -1,0 +1,62 @@
+.h2{
+    margin-bottom: 3rem;
+    padding-bottom: 5%;
+  }
+  nav {
+      background-color: #000;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+    }
+    
+    .navbar-left a {
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    
+    .navbar-right a {
+      color: #fff;
+      text-decoration: none;
+      margin-left: 20px;
+    }
+    
+    .content {
+      /* Add styles for your portfolio content here */
+    }
+  
+    #about{
+      margin-top: 3%;
+      margin-bottom: 3%;
+    }
+  
+    /* Articles */
+   
+    #articles{
+      margin-top: 7% !important;
+      margin-bottom: 7% !important;
+    }
+  
+    #Certifications{
+      margin-top: 7% !important;
+      margin-bottom: 7% !important;
+    }
+  
+    #Projects {
+      margin-top: 7% !important;
+      margin-bottom: 7% !important;
+    }
+  
+    #photography{
+      margin-top: 7% !important;
+      margin-bottom: 7% !important;
+    }
+  
+  
+    
+    
+    
